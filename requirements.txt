@@ -1,0 +1,7 @@
+python-Levenshtein
+jellyfish
+Cython
+word2vec
+psycopg2
+sqlalchemy
+nltk
